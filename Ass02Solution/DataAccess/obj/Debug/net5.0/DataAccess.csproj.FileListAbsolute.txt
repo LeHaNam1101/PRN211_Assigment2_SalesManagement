@@ -1,0 +1,80 @@
+D:\S5\C#\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\S5\C#\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\S5\C#\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\S5\C#\Asm02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\S5\C#\Asm02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\S5\C#\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\S5\C#\Asm02Solution\DataAccess\bin\Debug\net5.0\appsettings.json
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\bin\Debug\net5.0\appsettings.json
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

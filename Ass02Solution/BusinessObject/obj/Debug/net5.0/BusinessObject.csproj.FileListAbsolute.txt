@@ -1,0 +1,60 @@
+D:\S5\C#\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\S5\C#\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\S5\C#\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\S5\C#\Asm02Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll

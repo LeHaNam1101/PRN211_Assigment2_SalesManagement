@@ -1,0 +1,215 @@
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.exe
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.deps.json
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.json
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.dev.json
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.pdb
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.AssemblyReference.cache
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.Form1.resources
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.GenerateResource.cache
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfoInputs.cache
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfo.cs
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CoreCompileInputs.cache
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\refint\SaleWinApp.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.pdb
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.genruntimeconfig.cache
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\ref\SaleWinApp.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CopyComplete
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmProduct.resources
+D:\S5\C#\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\appsettings.json
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmOrder.resources
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMember.resources
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmLogin.resources
+D:\S5\C#\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMain.resources
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.exe
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\appsettings.json
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.deps.json
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.json
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.dev.json
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.AssemblyReference.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.Form1.resources
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmLogin.resources
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMain.resources
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMember.resources
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmOrder.resources
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmProduct.resources
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.GenerateResource.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfoInputs.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfo.cs
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CopyComplete
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\refint\SaleWinApp.dll
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.pdb
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.genruntimeconfig.cache
+E:\FPT\Semester 5\PRN211\Assignment\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\ref\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.exe
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\appsettings.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.dev.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.Form1.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmLogin.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMain.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMember.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmOrder.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmProduct.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.GenerateResource.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CopyComplete
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\refint\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.genruntimeconfig.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Asm02Solution\SaleWinApp\obj\Debug\net5.0-windows\ref\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.exe
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\appsettings.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.dev.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.Form1.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmLogin.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMain.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMember.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmOrder.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmProduct.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.GenerateResource.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CopyComplete
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\refint\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.genruntimeconfig.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\ref\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.exe
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\appsettings.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.runtimeconfig.dev.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\SaleWinApp.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.Form1.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmLogin.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMain.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmMember.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmOrder.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.frmProduct.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.GenerateResource.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.csproj.CopyComplete
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\refint\SaleWinApp.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\SaleWinApp.genruntimeconfig.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\2\LeHaNam_Assigment2\Ass02Solution\SaleWinApp\obj\Debug\net5.0-windows\ref\SaleWinApp.dll
